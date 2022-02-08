@@ -1,9 +1,5 @@
 #Olá! Sejam bem vind@S :) Prazer, Mylena! 
  
- Bora se conectar? [Linkedin] (https://www.linkedin.com/in/mylena-savala/)
+ Bora se conectar? (https://www.linkedin.com/in/mylena-savala/)
 
-Tecnologias Utilizadas
--HTML
--CSS
--JAVASCRIPT
--REACT
+HTML | CSS | JAVASCRIPT | REACT.JS | STYLED-COMPONENTS | MYSQL
