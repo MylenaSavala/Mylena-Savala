@@ -1,16 +1,17 @@
 Sejam bem vind@S ❤️ Prazer, Mylena! 
  
- Formada em Gestão da Tecnologia da Informação, pela PUC Campinas, aprofundando cada vez mais na área de íncrivel e profunda que é a TI. Me especializando como pessoa desenvolvedora FrontEnd com React.js
+ Formada em Gestão da Tecnologia da Informação, pela PUC Campinas, aprofundando cada vez mais na área de íncrivel e profunda que é a TI. Me especializando como pessoa desenvolvedora FrontEnd com React.js<br>
  Bora se conectar? <a href="https://www.linkedin.com/in/mylena-savala/">
 
 <img align="center" alt ="Mylena-CSS" height="30" width="80" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+
 <div>
  <a href="https://github.com/MylenaSavala/">
   
   [![MylenaSavala GitHub stats](https://github-readme-stats.vercel.app/api?username=MylenaSavala&show_icons=true&theme=radical)](https://github.com/MylenaSavala/github-readme-stats)
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MylenaSavala&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+ </a>
 
 </div>
 
