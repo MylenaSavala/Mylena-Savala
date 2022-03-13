@@ -5,7 +5,7 @@ O que funciona?
 
 O botão register, e a tela de cadastro.
 
-Link do surge:http://smart-class.surge.sh/
+Link do surge: sparkling-table.surge.sh
 
 Fotos do projeto
 
