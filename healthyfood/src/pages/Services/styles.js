@@ -17,17 +17,18 @@ text-align:center;
 export const Paragraph =styled.p`
 color: #c1c6d3;
 font-size:3vh;
+margin-right:20vh;
 grid-column:2/2;
 text-align:left;
 @media screen and (min-device-width: 390px) and (max-device-width: 884px) {
 font-size:16px;
 text-align:center;
+margin-right:0vh;
 }
  `
 export const ContainerServices = styled.div`
 grid-column:2/2;
 grid-row:2/3;
-margin-left:22vh;
 @media screen and (min-device-width: 320px) and (max-device-width: 884px) {
 grid-column:1;
 grid-row:1;

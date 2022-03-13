@@ -18,11 +18,11 @@ text-align:center;
 `
 export const Title =styled.h1`
 grid-column:2;
-grid-row:3;
 color:#2f3651;
 `
 export const MainContainer =styled.div`
 grid-column:2;
+grid-row:2/6;
 margin-left:2vh;
 background-color:white;
 opacity : 0.9; 

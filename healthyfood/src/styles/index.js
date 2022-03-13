@@ -11,8 +11,6 @@ margin: ${px2vw(0)};
 @media screen and (min-device-width: 320px) and (max-device-width: 884px) {
 background-size:120vw 100vw;
 background-position:left top;
-display:flex;
-flex-direction:column;
 height:68vh;
 }
 `
@@ -21,13 +19,15 @@ display:flex;
 flex-direction:column;
 height:auto;
 width:auto;
-
 `
 export const TopContainer = styled.div`
 display:flex;
 justify-content:space-around;
 color:#bcda5b;
 width: ${px2vw(320, 320)};
+@media screen and (min-device-width: 320px) and (max-device-width: 884px) {
+  color:#006400	;
+}
 `
 export const HeaderMenu = styled.div` 
 display:flex;
@@ -36,12 +36,18 @@ color:snow;
 @media screen and (min-device-width: 320px) and (max-device-width: 884px) {
 flex-direction:column;
 justify-content:center;
+margin: 0px 0px 0px 0px;
 }
 ` 
 export const Title =styled.a`
 margin: 2em 1em 2em;
 text-decoration:none;
 color:white;
+@media screen and (min-device-width: 320px) and (max-device-width: 884px) {
+margin: 0px 0px 0px 0px;
+opacity : 0.9; 
+font-size: 12px;
+}
 `
 export const ButtonRegister = styled.button` 
 background-color:snow;
@@ -55,9 +61,9 @@ font-size:16px;
 font-weight: bold;
 @media screen and (min-device-width: 320px) and (max-device-width: 884px) {
   margin-top: 0px;
-  width:12vh;
-  height:4vh;
-  font-size:12pt;
+  width:10vh;
+  height:2vh;
+  font-size: 10px;
 }
 ` 
 export const Search = styled.div` 
@@ -71,6 +77,8 @@ width: ${px2vw(320, 320)};
 @media screen and (min-device-width: 320px) and (max-device-width: 884px) {
 margin-left:0;
 align-items:center;
+background-color:white;
+margin-top:40vh;
 }
 ` 
 export const CampoInput=styled.input`
